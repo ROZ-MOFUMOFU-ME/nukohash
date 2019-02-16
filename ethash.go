@@ -41,7 +41,7 @@ import (
 	"unsafe"
 
 	"github.com/nekonium/go-nekonium/common"
-	"github.com/nekonium/go-nekonium/crypto"
+	"github.com/ROZ-MOFUMOUF-ME/go-nekonium/crypto"
 	"github.com/nekonium/go-nekonium/log"
 )
 
